@@ -1,0 +1,3 @@
+module Organizer
+
+go 1.23.2
